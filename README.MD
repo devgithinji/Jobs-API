@@ -1,3 +1,9 @@
+# Jobs API
+
+Application developed in node js
+
+Click [here](https://jobs-api-ke.herokuapp.com) to visit the API docs
+
 #### Setup
 
 ```bash
@@ -67,3 +73,5 @@ Swagger UI
       required: true
       description: the job id
 ```
+
+Dennis Githinji 👍
